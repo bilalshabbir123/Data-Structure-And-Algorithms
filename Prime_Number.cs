@@ -22,10 +22,10 @@ for (int i = 0; i < a; i++)
     }
     if (count==0)
     {
-        Console.WriteLine("Prime");
+        Console.WriteLine("Prime\n");
     }
     else
     {
-        Console.WriteLine("Not Prime");
+        Console.WriteLine("Not Prime\n");
     }
 }
