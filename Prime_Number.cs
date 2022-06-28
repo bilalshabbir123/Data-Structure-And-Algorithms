@@ -1,5 +1,5 @@
 ﻿// See https://aka.ms/new-console-template for more information
-/*if the Prime number is that which is only divisible by one and itself.we start the dividing from zero because every number is divible by one.
+/*if the Prime number is that which is only divisible by one and itself.we start the dividing from 2 because every number is divible by one.
 if count increament then show it a not a prime number*/
 
 int a;
